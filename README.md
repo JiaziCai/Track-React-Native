@@ -1,6 +1,11 @@
 # Track-React-Native
 
-This project is to track user's path and record where they have been, integrated with React Native, expo-location, and NodeJS backend.
+This project is to track user's path and record where they have been, integrated with React Native, expo-location, and NodeJS backend.Functionality includes user auth, login, register, logout, add new track, fetch tracks, record location path.
+
+![Track-React-Native](/templates/s1.png)
+![Track-React-Native](/templates/s2.png)
+![Track-React-Native](/templates/s3.png)
+![Track-React-Native](/templates/s4.png)
 
 To start the project,
 
